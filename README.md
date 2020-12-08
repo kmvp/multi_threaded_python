@@ -1,8 +1,14 @@
 # multi_threaded_python
+multiple threads with python
+
+## Despliegue 📦
 
 run the app.py file 📦
 
-multiple threads with python
+## Construido con 🛠️
+
+* [Python](https://www.python.org) - Lenguaje usado
+* [Threading](https://docs.python.org/es/3/library/threading.html) - Manejador de hilos de python
 
 ## Autores ✒️
 
